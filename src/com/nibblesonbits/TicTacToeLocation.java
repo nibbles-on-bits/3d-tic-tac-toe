@@ -1,3 +1,4 @@
+package com.nibblesonbits;
 
 public class TicTacToeLocation {
 	int x;
